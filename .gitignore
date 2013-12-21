@@ -90,3 +90,6 @@ GPATH
 GRTAGS
 GSYMS
 GTAGS
+
+# HTML documentation
+html/
